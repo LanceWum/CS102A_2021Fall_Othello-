@@ -1,0 +1,17 @@
+playerlist.txt
+600: invalid property
+601: invalid player id
+602: invalid player type  0---human, 1--- normal ai, 2 -- hard ai
+
+
+gamelist.txt
+700:invalid property
+701:invalid game id
+702:invalid game result (winner id error)
+703:invalid step id
+704:invalid step locaton(row or col)
+705: invalid step color ( no black or white)
+706: invliad playerid
+
+stepweight.txt
+901:  error col
