@@ -1,0 +1,9 @@
+pid:1,playerType:0,name:jack,time:2021-11-21 09:00:00,avartar:dog.png
+pid:2,playerType:0,name:tom,time:2021-11-21 09:01:00,avartar:tiger.png
+pid:3,playerType:1,name:alphago-1,time:2021-11-11 00:08:00,avartar:alphago-1.png
+pid:4,playerType:2,name:alphago-2,time:2021-11-11 00:08:00,avartar:alphago-2.png
+pid:5,playerType:2,name:alphago-3,time:2021-11-11 00:08:00,avartar:alphago-3.png
+pid:6,playerType:0,name:tony,time:2021-12-17,avartar:rabbit.png
+pid:7,playerType:0,name:bill,time:2021-12-17,avartar:eagle.png
+pid:8,playerType:0,name:ddd,time:2021-12-19,avartar:dinosaur.png
+pid:9,playerType:0,name:HK416,time:2021-12-20,avartar:HK416_D.png
